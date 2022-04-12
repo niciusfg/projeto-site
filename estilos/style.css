@@ -1,0 +1,15 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+body{
+    background-color: rgb(227, 197, 255);
+}
+
+main{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px ;
+}
